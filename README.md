@@ -41,7 +41,7 @@ Instale os pacotes manualmente:
 pip install scapy matplotlib
 ````
 
-### 2️⃣ Instalação e Execução
+### 2️⃣ Execução
 ```bash
 python visualizer.py
 ````
